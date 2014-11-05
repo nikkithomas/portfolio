@@ -1,0 +1,339 @@
+body{
+	position: relative;
+
+}
+
+#header{
+	position: absolute;
+	margin-top: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: #FFD900;
+	
+
+
+}
+
+#top-middle{
+	position: absolute;
+	margin-top: 100px;
+	width: 100%;
+	height: 400px;
+	background-color: #FFF;
+
+
+}
+
+#skills{
+	position: absolute;
+	margin-top: 500px;
+	width: 100%;
+	height: 150px;
+	background-color: #00CCD6;
+	
+
+
+}
+#portfolio{
+	position:absolute;
+	margin-top: 650px;
+	height:820px;
+	background-color: #FFF;
+	width:100%;
+}
+
+
+#copyright{
+	position: absolute;
+	width: 100%;
+	background-color: black;
+	margin-top: 1820px;
+	height: 100px;
+}
+
+#contact{
+	position: absolute;
+	background-color: #00CCD6;
+	margin-top: 1570px;
+	height: 350px;
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	width: 1080px;
+	height: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+
+}
+
+
+.nav-bar{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1040px;
+	background-color: transparent;
+
+}
+.nav-bar li{
+	display: inline;
+	font-size: 20px;
+	font-family: Georgia;
+	word-spacing:;
+	color: ;
+
+}
+
+.nav-bar li a{
+	padding: .2em 1em;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+
+
+}
+
+.nav-bar ul li a:hover{
+
+}
+.nav-bar ul li a:link{
+	text-decoration: none;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.nav-bar{
+	list-style-type: none;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.name{
+	text-align: center;
+	font-size: 82px;
+	font-family: Sail;
+	padding-top: 95px;
+	color: #00ccd6;
+	font-weight: bold;
+
+}
+
+
+
+.image{
+	position: absolute;
+	margin-left: 300px;
+	margin-right: ;
+	margin-right: ;
+	height: 218px;
+	width: 480px;
+
+
+}
+
+#image{
+	margin-left: 20%;
+	margin-right: 20%;
+	position: absolute;
+	border-radius: 50%;
+	max-width: 60%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+
+
+.position{
+	position: absolute;
+	text-align: center;
+	margin-top: 260px;
+	margin-left: 215px;
+	color: black;
+	font-family: Georgia;
+	font-weight: bold;
+	width: 650px;
+
+
+
+	
+
+}
+
+.skills{
+	position: absolute;
+	width: 770px;
+	height: 150px;
+	margin-top: 290px;
+	margin-left: 155px;
+
+
+
+
+
+}
+
+.skill-list{
+	position: absolute;
+	
+
+	padding: 0px;	
+	margin-left: 60px;
+
+	font-family: Georgia;
+
+
+}
+
+#skill-list{
+	font-family: Georgia;
+	
+}
+
+.skills-icons{
+	display: inline;
+	float: left;
+	text-align: center;
+	padding: 30px;
+	margin-top: 20px;
+	color: #FFD900;
+
+}
+
+.skills-icons p{
+	color: black;
+	font-family: Georgia;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#icon{
+	color: #FFD900;
+}
+
+
+#about{
+	position: absolute;
+	margin-top: 500px;
+	margin-left: 215px; 
+	color: black;
+	font-family: Georgia;
+	font-weight: bold;
+	
+}
+
+#bio{
+	position: absolute;
+	font-family: Georgia;
+	font-weight: bold;
+	margin-top: 550px;
+	width: 770px;
+	height: 110px;
+	margin-left: 155px;
+}
+
+#my-work{
+	margin-left: 215px;
+	position: absolute;
+	margin-top: 700px;
+	width: 770px;
+	font-family: Georgia;
+	font-weight: bold;
+	color: black;
+	
+}
+
+.my-work{
+	position: absolute;
+	margin-top: 780px;
+	height: 500px;
+	width: 770px;
+	margin-left: 155px;
+}
+
+#work-pics{
+	border: 5px solid #FFD900;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+#num-1{
+	float: left;
+	
+
+}
+
+#num-2{
+	float: right;
+
+
+}
+
+#num-3{
+	float: left;
+	
+
+}
+
+#num-4{
+
+	float: right;
+}
+
+
+
+
+
+.contact-info{
+	position: absolute;
+	width: 770px;
+	height: 150px;
+	margin-left: 155px;
+	margin-top: 1419px; 
+}
+
+.contact-list{
+	font-family: Georgia;
+	margin-left: 60px;
+}
+
+.contact-icons{
+	float:center;
+	color: #FFD900;
+	text-align: center;
+	display: inline;
+	padding: 30px;
+	margin-left: 30px;
+
+}
+
+#list{
+	text-decoration: none;
+	color: #FFD900;
+	font-weight: bold;
+}
+
+#icon-pics{
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+
+
+.copy{
+	position: absolute;
+	font-family: Georgia;
+	font-weight: bold;
+	color: white;
+	margin-top: 1670px;
+
+}
+
